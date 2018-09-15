@@ -33,4 +33,9 @@ public class TestDemo {
 		assertEquals(false, false);
 	}
 
+	@Test
+	public void test5()
+	{
+		assertEquals(false, false);
+	}
 }
