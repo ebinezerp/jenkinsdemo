@@ -26,5 +26,11 @@ public class TestDemo {
 	{
 		assertEquals(false, false);
 	}
+	
+	@Test
+	public void test3()
+	{
+		assertEquals(false, false);
+	}
 
 }
