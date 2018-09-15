@@ -20,5 +20,11 @@ public class TestDemo {
 	public void test() {
 		assertEquals(true,true);
 	}
+	
+	@Test
+	public void test2()
+	{
+		assertEquals(false, false);
+	}
 
 }
